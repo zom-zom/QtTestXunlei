@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/MainWidget">
+        <file>resource/titlebar/close.svg</file>
+        <file>resource/titlebar/close_hover.svg</file>
+        <file>resource/titlebar/max.svg</file>
+        <file>resource/titlebar/max_hover.svg</file>
+        <file>resource/titlebar/min.svg</file>
+        <file>resource/titlebar/min_hover.svg</file>
+        <file>resource/titlebar/normal.svg</file>
+        <file>resource/titlebar/normal_hover.svg</file>
+        <file>resource/titlebar/set.svg</file>
+        <file>resource/titlebar/set_hover.svg</file>
+        <file>resource/titlebar/title_icon.png</file>
+    </qresource>
+</RCC>

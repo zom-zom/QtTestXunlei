@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtTestXunlei", "QtTestXunlei\QtTestXunlei.vcxproj", "{DF966098-65E5-4130-8E66-A45B57AE7C76}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_2_LessWidget", "3_2_LessWidget\3_2_LessWidget.vcxproj", "{20CBB6D0-128B-446A-BD9E-1F736783597A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF966098-65E5-4130-8E66-A45B57AE7C76}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF966098-65E5-4130-8E66-A45B57AE7C76}.Debug|x86.Build.0 = Debug|Win32
+		{DF966098-65E5-4130-8E66-A45B57AE7C76}.Release|x86.ActiveCfg = Release|Win32
+		{DF966098-65E5-4130-8E66-A45B57AE7C76}.Release|x86.Build.0 = Release|Win32
+		{20CBB6D0-128B-446A-BD9E-1F736783597A}.Debug|x86.ActiveCfg = Debug|Win32
+		{20CBB6D0-128B-446A-BD9E-1F736783597A}.Debug|x86.Build.0 = Debug|Win32
+		{20CBB6D0-128B-446A-BD9E-1F736783597A}.Release|x86.ActiveCfg = Release|Win32
+		{20CBB6D0-128B-446A-BD9E-1F736783597A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB5C900-8BA1-401C-860E-F5B3069874BC}
+	EndGlobalSection
+EndGlobal
